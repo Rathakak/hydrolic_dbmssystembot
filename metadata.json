@@ -1,0 +1,6 @@
+{
+  "name": "Supabase Hydraulic DB",
+  "description": "Supabase database schema generator for hydraulic construction projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
